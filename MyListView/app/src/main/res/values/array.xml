@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="group">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+    </string-array>
+    <string-array name="title1">
+        <item>detail1</item>
+        <item>detail2</item>
+        <item>detail3</item>
+    </string-array>
+    <string-array name="title2">
+        <item>detail1</item>
+        <item>detail2</item>
+        <item>detail3</item>
+    </string-array>
+    <string-array name="title3">
+        <item>detail1</item>
+        <item>detail2</item>
+        <item>detail3</item>
+    </string-array>
+    <string-array name="detail1">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+    </string-array>
+    <string-array name="detail2">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+    </string-array>
+    <string-array name="detail3">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+    </string-array>
+
+</resources>
